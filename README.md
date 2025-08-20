@@ -1,5 +1,4 @@
-Um jovem iniciante na programação que almeija aprender mais desse ramo e desenvolver suas ideias 
-
-Hoje é dia 23/0/2023 e já voltei a um tempo a estudar programação mas agora pra realmente entrar na área de cabeça.
-sou ambicioso e quero continuar tendo essa ambição. 
-voltei com varias ideias em mente que por mais não tenha nenhuma noção de por onde começar estarei disposto a ir até o final para aprender com essas ideias
+👋 Olá! Sou Abner Thiago, desenvolvedor backend.
+💻 Estudo Java com Spring Boot e MySQL, com experiência em bancos não relacionais.
+🚀 Compartilho APIs, sistemas, automações e conteúdos de aprendizado, registrando meu progresso e construindo meu portfólio.
+🌱 Apaixonado por aprender, aplicar novas tecnologias e transformar ideias em projetos.
